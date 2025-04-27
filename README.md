@@ -2,7 +2,7 @@
 
 **A minimalistic, clean, and inspiring time-management app for students, built to boost focus and productivity.**  
 
-![Screenshot 2025-04-27 150334](https://github.com/user-attachments/assets/8efa9f2a-f1ce-4b9e-b534-5e53e11632ef)  ![image](https://github.com/user-attachments/assets/2fd4241e-aa7c-4474-b42a-2372640f5455)
+![image](https://github.com/user-attachments/assets/64df21d1-c960-4647-9de4-f638323318e9)
 
 
 
